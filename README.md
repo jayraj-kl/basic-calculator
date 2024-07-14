@@ -5,10 +5,7 @@ This is a basic calculator built with React. The application allows you to perfo
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Installation
 
@@ -26,3 +23,8 @@ To run this project locally, follow these steps:
 3. **Start the development server:**
    ```bash
    npm run dev
+
+## Technologies Used
+
+- React
+- JavaScript
